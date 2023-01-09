@@ -1,0 +1,1 @@
+# Nifty_bullish_engulfing_predictor
